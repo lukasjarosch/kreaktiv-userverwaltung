@@ -19,7 +19,7 @@ class LoginController extends BaseController {
 	 * Handles a POST request on '/login'
 	 * Validates the submitted form and prints errors if needed
 	 *
-	 * @todo: Finish validation once the DB is setup
+	 * @todo: Finish validation in connection with the DB
 	 */
 	public function postLogin() {
 
