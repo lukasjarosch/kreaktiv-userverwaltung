@@ -6,3 +6,8 @@ composer.lock
 .env.php
 .DS_Store
 Thumbs.db
+INSTALL.txt
+LICENSE.txt
+README.txt
+demos/
+extras/documentation
